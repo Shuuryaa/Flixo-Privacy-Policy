@@ -1,7 +1,7 @@
-# Floovi Privacy Policy  
+# Flixo's Privacy Policy  
 
 ## 0. Definitions  
-- **"Bot"** refers to Floovi and its services hosted on Discord.  
+- **"Bot"** refers to Flixo and its services hosted on Discord.  
 - **"User"** refers to any Discord account interacting with the Bot.
 - **"Guild"** means a Discord server.
 - **"Personal Data"** refers to information related to an identifiable individual, such as User IDs or linked Spotify accounts.
@@ -32,14 +32,14 @@ You have the right to:
 Floovi is not intended for individuals under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal data from children.  
 
 ## 6. Bot Usage Rules  
-By using Floovi, you agree to the following:  
+By using Flixo, you agree to the following:  
 - **No Spamming** – Excessive or automated command usage is prohibited.  
 - **No Advertising** – Promotional content using the bot is not allowed.  
 - **No Exploits or Abuse** – Attempting to hack, reverse engineer, or misuse the bot will result in permanent bans.  
 - **Bug Reporting** – If you discover a bug, please report it via the [Support Server](https://discord.gg/HaD5sYEj8w).  
 
 ## 7. Third-Party Services  
-Moon Music interacts with third-party APIs such as **Spotify**, **Deezer**, and **SoundCloud** to provide music playback functionality.  
+Flixo interacts with third-party APIs such as **Spotify**, **Deezer**, and **SoundCloud** to provide music playback functionality.  
 
 - These services may collect their own data based on your usage.  
 - Their respective privacy policies apply independently of ours.  
@@ -78,6 +78,6 @@ We aim to respond to all inquiries in a timely and respectful manner.
 
 ---
 
-Floovi is an independent project and is not affiliated with or endorsed by Discord Inc., Spotify, Deezer, or SoundCloud.
+Flixo is an independent project and is not affiliated with or endorsed by Discord Inc., Spotify, Deezer, or SoundCloud.
 
 This Privacy Policy does not create a contractual obligation between you and Floovi, but serves to explain our data handling practices in good faith.
